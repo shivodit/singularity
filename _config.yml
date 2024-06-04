@@ -30,7 +30,7 @@ github_username:  shivodit
 
 # Build settings
 # theme: minima
-remote-theme: mundana-theme-jekyll
+# remote-theme: mundana-theme-jekyll
 plugins:
   - jekyll-feed
 
