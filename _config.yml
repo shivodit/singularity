@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Singularity
+name: Singularity
 email: vishnoishivoditraj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An account of things I find interesting. 
@@ -27,7 +27,8 @@ url: https://shivodit.github.io/auto_blog/ # the base hostname & protocol for yo
 github_username:  shivodit
 
 # Build settings
-theme: minima
+# theme: minima
+remote-theme: mundana-theme-jekyll
 plugins:
   - jekyll-feed
 
@@ -50,3 +51,50 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    shivodit:
+      name:           Shivodit
+      site:           https://shivodit.github.io/auto_blog/
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Shivodit Raj Vishnoi, a CS undergrad at BITS Pilani, This blog is just a tech experiment, I hope you like it!"
+      email:          vishnoishivoditraj@gmail.com
+      # twitter:        https://twitter.com/wowthemesnet
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: Shivodit
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
