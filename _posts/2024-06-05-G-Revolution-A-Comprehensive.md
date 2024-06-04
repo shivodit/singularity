@@ -3,7 +3,7 @@ layout: post
 title:  "G Revolution: A Comprehensive Guide to Transformative Wireless Technology"
 author: shivodit
 categories: [ Automated,Tech,Science ]
-tags: [featured]
+tags: [featured ]
 
 ---
 # G Revolution: A Comprehensive Guide to Transformative Wireless Technology
