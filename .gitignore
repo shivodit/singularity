@@ -6,3 +6,5 @@ vendor
 key.py
 gemini_blog.ipynb
 auto_commit.py 
+Gemfile
+Gemfile.lock
