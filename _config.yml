@@ -23,8 +23,8 @@ email: vishnoishivoditraj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An account of things I find interesting. 
 baseurl: /auto_blog # the subpath of your site, e.g. /blog
-# logo: 'assets/images/logo.png'
-# favicon: 'assets/images/favicon.ico' #TODO : Add favicon
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico' #TODO : Add favicon
 url: https://shivodit.github.io/auto_blog/ # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shivodit
 
