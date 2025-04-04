@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Singularity!"
+title:  "Welcome to Singularity"
 author: shivodit
 
 tags: [sticky]
