@@ -8,3 +8,5 @@ gemini_blog.ipynb
 auto_commit.py 
 Gemfile
 Gemfile.lock
+generate_new_post.ipynb
+temp_garbage/

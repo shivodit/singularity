@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 name: Singularity
-email: vishnoishivoditraj@gmail.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   An account of things I find interesting. 
-baseurl: /auto_blog # the subpath of your site, e.g. /blog
+baseurl: /singularity # the subpath of your site, e.g. /blog
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico' #TODO : Add favicon
-url: https://shivodit.github.io/auto_blog/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://shivodit.github.io/singularity/ # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shivodit
 
 # Build settings
@@ -68,10 +68,10 @@ plugins:
 authors:
     shivodit:
       name:           Shivodit
-      site:           https://shivodit.github.io/auto_blog/
+      site:           https://shivodit.github.io/singularity/
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Shivodit Raj Vishnoi, a CS undergrad at BITS Pilani, This blog is just a tech experiment, I hope you like it!"
-      email:          vishnoishivoditraj@gmail.com
+      email:          
       # twitter:        https://twitter.com/wowthemesnet
 
 # Defaults
