@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: /singularity # the subpath of your site, e.g. /blog
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico' #TODO : Add favicon
-url: https://shivodit.github.io/singularity/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://shivodit.github.io/singularity # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shivodit
 
 # Build settings
@@ -68,7 +68,7 @@ plugins:
 authors:
     shivodit:
       name:           Shivodit
-      site:           https://shivodit.github.io/singularity/
+      site:           https://shivodit.github.io/singularity
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Shivodit Raj Vishnoi, a CS undergrad at BITS Pilani, This blog is just a tech experiment, I hope you like it!"
       email:          
@@ -83,7 +83,7 @@ defaults:
     values:
       layout: post
       author: Shivodit
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
