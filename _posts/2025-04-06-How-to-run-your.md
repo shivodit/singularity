@@ -4,7 +4,7 @@ title:  "How to run your own local llm full code guide?"
 author: shivodit
 categories: [ AI,code,tech ]
 tags: [featured]
-image: assets/images/ running_local_llm_462025.png
+image: assets/images/running_local_llm_462025.png
 ---
 Okay, buckle up buttercups! Today we're diving headfirst into the surprisingly accessible (and wonderfully nerdy) world of running your own Large Language Model *locally*. That's right, no more relying on Big Tech's servers – you get to be your own AI overlord!
 
