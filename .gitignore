@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.gitignore
 vendor
 key.py
 gemini_blog.ipynb
@@ -9,5 +10,6 @@ auto_commit.py
 Gemfile
 Gemfile.lock
 auto_generate_cron.py
+blog_queue.csv
 generate_new_post.ipynb
 temp_garbage/
