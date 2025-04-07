@@ -3,12 +3,10 @@ layout: post
 title:  "Mathematics of Gambling and assured profits by arbitrage"
 author: shivodit
 categories: [ mathematics,tech ]
-tags: [featured]
+tags: [featured, sticky]
 image: assets/images/roullete_image_math_gamb.jpg
 ---
 Okay, let's dive into the wild and wacky world where numbers try to outsmart Lady Luck: **The Mathematics of Gambling and the Dream of Guaranteed Profits (Thanks to Arbitrage)**
-
-**(Image: roullete_image_math_gamb.jpg)**
 
 So, you think gambling is all about gut feeling and lucky socks? Think again! While a rabbit's foot might *feel* lucky, cold, hard mathematics plays a surprisingly big role, especially when it comes to a little trick called **arbitrage betting.**
 

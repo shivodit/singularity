@@ -6,9 +6,6 @@ categories: [ history,psychology,business,math ]
 tags: [featured]
 image: assets/images/sur_bias_cover.svg
 ---
-Okay, here's a blog post on survivorship bias, balancing explanation with readability and a touch of humor.
-
-```markdown
 ## From History to Modern Strategy: Uncovering Survivorship Bias (Or, Why Your Business Plan Needs More "Uh Oh" Moments)
 
 Ever wonder why all those self-help gurus seem to have the *exact same* formula for success? Or why every tech company that IPOs sounds like they were destined for greatness from the very beginning? Chances are, you're staring directly into the distorted lens of **survivorship bias.**
@@ -79,14 +76,3 @@ So, how do you avoid falling into the survivorship bias trap? Here are a few tip
 Survivorship bias is a pervasive cognitive distortion that can lead to flawed decision-making in all areas of life. By understanding its principles, actively seeking out failure stories, and questioning the data, you can make more informed choices and avoid repeating the mistakes of those who didn't survive.
 
 Now, go forth and learn from the *dead* (startups, of course)! Your business plan will thank you for it.
-```
-
-Key improvements and explanations:
-
-*   **More Conversational Tone:** The language is more relaxed and relatable.
-*   **Clearer Examples:** The examples (business, investing, personal development) are more concrete.
-*   **Actionable Advice:**  The section on "Spotting and Avoiding" provides practical steps.
-*   **Humor:**  Subtle touches of humor keep the reader engaged.
-*   **Simplified Math:** The explanation of the bias is simplified and relatable.
-
-This improved version aims to be more helpful and engaging for the average reader while still conveying the core concepts of survivorship bias effectively.
